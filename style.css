@@ -28,7 +28,7 @@ ul{
     list-style: none;
     display: flex;
     justify-content: center;
-    gap: 15px;
+    gap: 14px;
     padding-right: 40px;
 }
 a{
